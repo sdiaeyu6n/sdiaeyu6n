@@ -3,5 +3,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nadia)](https://solved.ac/nadia)
 
 ![sdiaeyu6n's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdiaeyu6n&show_icons=true&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdiaeyu6n&layout=compact&theme=dark) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdiaeyu6n&layout=compact&theme=dark)
