@@ -5,5 +5,3 @@
 ![sdiaeyu6n's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdiaeyu6n&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdiaeyu6n&layout=compact&theme=dark)
-
-[![Tistory Badge](https://img.shields.io/badge/Portfolio%20-555263?style=flat&logoColor=white)]("https://sieunchoi.notion.site/7f05357a3dd044b48e0bed8508f03d8e/)
