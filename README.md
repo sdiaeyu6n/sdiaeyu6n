@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/89725142/212603164-44c698f1-cf94-4a93-a925-c10311cf050b.png" width="37%">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nadia)](https://solved.ac/nadia)
-
-![sdiaeyu6n's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdiaeyu6n&show_icons=true&theme=dark)
+<!-- 
+![sdiaeyu6n's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdiaeyu6n&show_icons=true&theme=dark) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdiaeyu6n&layout=compact&theme=dark) -->
 
