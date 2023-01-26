@@ -79,7 +79,7 @@
 </div>    
   ㅤ
 
-> Solved.ac Status
-<div>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nadia)](https://solved.ac/nadia/)
-</div>
+> Solved.ac Status  
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nadia)](https://solved.ac/nadia)
