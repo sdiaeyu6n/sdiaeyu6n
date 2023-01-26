@@ -71,7 +71,7 @@
 > GitHub Status
 <div>
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=sdiaeyu6n&theme=white&show_icons=true" width="38.6%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sdiaeyu6n&theme=white&show_icons=true" width="45%" />
   </a>
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdiaeyu6n&exclude_repo=sdiaeyu6n.github.io&layout=compact&theme=white" width="40%"/>
