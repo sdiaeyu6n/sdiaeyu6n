@@ -82,4 +82,8 @@
 > Solved.ac Status  
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nadia)](https://solved.ac/nadia)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nadia)](https://solved.ac/nadia)    
+> New Post  
+
+
+[![Velog's stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://github.com/eungyeole/velog-readme-stats)
