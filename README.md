@@ -86,4 +86,4 @@
 > New Post  
 
 
-[![Velog's stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://velog-readme-stats.vercel.app/api/redirect?name=sieunc&tag=github)
