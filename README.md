@@ -68,6 +68,12 @@
 ㅤ 
 </div>
 
+
+> New Post  
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://velog.io/@sieunc/1012-%EC%9C%A0%EA%B8%B0%EB%86%8D-%EB%B0%B0%EC%B6%94)
+
 > GitHub Status
 <div>
   <a href="s">
@@ -83,7 +89,3 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nadia)](https://solved.ac/nadia)    
-> New Post  
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://velog.io/@sieunc/1012-%EC%9C%A0%EA%B8%B0%EB%86%8D-%EB%B0%B0%EC%B6%94)
