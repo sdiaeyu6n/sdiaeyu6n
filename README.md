@@ -65,8 +65,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   
   <br>  
-ㅤ  
-<!--   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nadia)](https://solved.ac/nadia)-->
+ㅤ 
 </div>
 
 > GitHub Status
@@ -77,4 +76,10 @@
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdiaeyu6n&exclude_repo=sdiaeyu6n.github.io&layout=compact&theme=white" width="40%"/>
   </a>  
-</div>  
+</div>    
+  ㅤ
+
+> Solved.ac Status
+<div>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nadia)](https://solved.ac/nadia/)
+</div>
