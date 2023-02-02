@@ -48,12 +48,10 @@
   <img src="https://img.shields.io/badge/Matlab-black?style=for-the-badge"> 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Virtual Box-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white">
-  <img src="https://img.shields.io/badge/LogicWorks-black?style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/keil-4479A1?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/LogicWorks-black?style=for-the-badge"> 9.
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <br>
