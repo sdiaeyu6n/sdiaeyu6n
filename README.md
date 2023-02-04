@@ -72,7 +72,7 @@
 > New Post  
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://velog.io/@sieunc/11724-%EC%97%B0%EA%B2%B0-%EC%9A%94%EC%86%8C%EC%9D%98-%EA%B0%9C%EC%88%98)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://velog.io/@sieunc/Airflow)
 
 > GitHub Status
 <div>
