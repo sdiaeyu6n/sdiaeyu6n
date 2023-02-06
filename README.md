@@ -72,7 +72,7 @@
 > New Post  
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://velog.io/@sieunc/Airflow)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://velog.io/@sieunc/https://velog.io/@sieunc/MySQL-InnoDB-vs-MyISAM-Memory)
 
 > GitHub Status
 <div>
