@@ -2,10 +2,9 @@
 
 > Main Interest  
 <div align=left> 
-  <img src="https://img.shields.io/badge/-Software%20Development-0A2647?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Multimodal%20Learning-0A2647?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Computer%20Vision-0A2647?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Data%20Enginnering-0A2647?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Cloud%20Computing-0A2647?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-IoT-0A2647?style=for-the-badge">
   <br/>
 </div>  
   ㅤ
