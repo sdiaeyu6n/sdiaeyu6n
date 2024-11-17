@@ -46,8 +46,8 @@
 
 > New Post  
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sieunc)](https://velog.io/@sieunc/Evaluating-Object-Hallucination-in-Large-Vision-Language-Models)
 
-[![Velog's GitHub stats]([https://velog-readme-stats.vercel.app/api?name=sieunc)](https://velog.io/@sieunc/MySQL-InnoDB-vs-MyISAM-Memory](https://velog.io/@sieunc/Evaluating-Object-Hallucination-in-Large-Vision-Language-Models))
 
 > GitHub Status
 <div>
