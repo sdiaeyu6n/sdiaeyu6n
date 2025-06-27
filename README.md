@@ -58,9 +58,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdiaeyu6n&exclude_repo=sdiaeyu6n.github.io&layout=compact&theme=white" width="40%"/>
   </a>  
 </div>    
-  ㅤ
-
-> Solved.ac Status  
-
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nadia)](https://solved.ac/nadia)    
